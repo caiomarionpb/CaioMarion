@@ -22,12 +22,12 @@ Meu objetivo a curto prazo é conquistar minha primeira oportunidade como <stron
 
 ### 🚀 O que estou fazendo atualmente:
 
-- 📚 Estudando **Engenharia da Computação** (2º semestre).  
+- 📚 Estudando **Engenharia de Software** (2º semestre).  
 - 💻 Aprofundando conhecimentos em **desenvolvimento web full stack**.  
 - 🌱 Focado em consolidar uma base sólida em linguagens, frameworks e boas práticas de programação.  
 - 🌍 Inglês pré-avançado, sempre evoluindo para alcançar fluência.  
 - 🧠 Desenvolvendo minhas principais soft skills: dedicação, resiliência, foco e adaptabilidade.  
-- 🎯 Em busca do meu primeiro projeto freelancer e da minha primeira oportunidade como **desenvolvedor júnior**.  
+- 🎯 Em busca do meu primeiro estágio e da minha primeira oportunidade.  
 
 ---
 
