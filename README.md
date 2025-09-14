@@ -41,11 +41,12 @@ Caso queira trocar uma ideia ou conversar sobre tecnologia, me chama em:
 ### 🌐 Redes sociais
 
 <p align="left">
-  <a href="caiompbueno@gmail.com">
-    <img src="https://img.shields.io/badge/-Outlook-0072C6?style=flat-square&labelColor=0072C6&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caiompbueno@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <a href="(https://www.linkedin.com/in/caio-marion-b5b20727b/)" title="LinkedIn">
+
+  <a href="https://www.linkedin.com/in/caio-marion-b5b20727b/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
@@ -57,3 +58,4 @@ Caso queira trocar uma ideia ou conversar sobre tecnologia, me chama em:
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
