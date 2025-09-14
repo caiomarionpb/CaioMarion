@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Caio%20Marion&color=1e1e2e&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>
-Sou estudante de <strong>Engenharia da Computação</strong> e apaixonado por tecnologia. Minha trajetória começou na Engenharia Mecânica, mas após três semestres percebi que a área que realmente despertava meu interesse representava menos de 1% da grade, o que me levou à frustração. Foi nesse momento de reflexão que decidi migrar para o universo do software, onde descobri minha verdadeira vocação e uma enorme vontade de aprender cada vez mais.
+Sou estudante de <strong>Engenharia de Software</strong> e apaixonado por tecnologia. Minha trajetória começou na Engenharia Mecânica, mas após três semestres percebi que a área que realmente despertava meu interesse representava menos de 1% da grade, o que me levou à frustração. Foi nesse momento de reflexão que decidi migrar para o universo do software, onde descobri minha verdadeira vocação e uma enorme vontade de aprender cada vez mais.
 </p>
 
 <p>
