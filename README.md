@@ -7,22 +7,29 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Caio%20Marion&color=1e1e2e&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>
-Sou desenvolvedor <strong>Full Stack</strong> e estudante de <strong>Engenharia da Computação</strong>. Minha trajetória começou na Engenharia Mecânica, mas após muito autoconhecimento, decidi seguir minha verdadeira paixão: a tecnologia. Comecei estudando programação por conta própria, fiz freelas com WordPress e logo conquistei meu estágio na Bosch Sorocaba, onde atuei com automações em Python e VBA.  
+Sou estudante de <strong>Engenharia da Computação</strong> e apaixonado por tecnologia. Minha trajetória começou na Engenharia Mecânica, mas após três semestres percebi que a área que realmente despertava meu interesse representava menos de 1% da grade, o que me levou à frustração. Foi nesse momento de reflexão que decidi migrar para o universo do software, onde descobri minha verdadeira vocação e uma enorme vontade de aprender cada vez mais.
 </p>
 
 <p>
-Hoje trabalho como <strong>Full Stack Developer</strong> na <strong>PlayTruco</strong>, um jogo de truco online com apostas em tempo real, utilizando <strong>TypeScript, React.js, Node.js, NestJS e Socket.IO</strong>. Cada desafio enfrentado até aqui reforçou minha capacidade de adaptação, resiliência e aprendizado contínuo.
+Hoje estou no segundo semestre da graduação e focado em me desenvolver como <strong>Full Stack Developer</strong>. Tenho me dedicado ao estudo de <strong>desenvolvimento web</strong>, explorando linguagens e frameworks que me permitam atuar tanto no front-end quanto no back-end. Mesmo sem experiência profissional na área de TI, encaro cada aprendizado como um desafio que fortalece minha <strong>resiliência, adaptabilidade e foco</strong>, qualidades que venho construindo ao longo da minha jornada acadêmica e pessoal.
+</p>
+
+<p>
+Meu objetivo a curto prazo é conquistar minha primeira oportunidade como <strong>desenvolvedor júnior</strong>, aplicando meus conhecimentos em projetos reais e crescendo ao lado de profissionais experientes. A longo prazo, quero expandir minha atuação, experimentar diferentes áreas da computação e consolidar minha carreira como desenvolvedor full stack.
 </p>
 
 ---
 
 ### 🚀 O que estou fazendo atualmente:
 
-- 🔁 Full Stack Developer na [PlayTruco](https://playtruco.com) com React.js, TypeScript, NestJS, Node.js e WebSockets.
-- ⚙ Automação de processos industriais com Python e VBA (experiência anterior na Bosch e Accenture).
-- 📊 Dashboards e análise de dados com Power BI.
-- 📚 Aprofundando conhecimentos em Clean Code, SOLID, testes automatizados e arquitetura de software.
-- 👨‍🏫 Desenvolvendo sistema de controle de presença com QR Code, geolocalização e autenticação de usuários.
+- 📚 Estudando **Engenharia da Computação** (2º semestre).  
+- 💻 Aprofundando conhecimentos em **desenvolvimento web full stack**.  
+- 🌱 Focado em consolidar uma base sólida em linguagens, frameworks e boas práticas de programação.  
+- 🌍 Inglês pré-avançado, sempre evoluindo para alcançar fluência.  
+- 🧠 Desenvolvendo minhas principais soft skills: dedicação, resiliência, foco e adaptabilidade.  
+- 🎯 Em busca do meu primeiro projeto freelancer e da minha primeira oportunidade como **desenvolvedor júnior**.  
+
+---
 
 ---
 
