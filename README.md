@@ -34,7 +34,7 @@ Caso queira trocar uma ideia ou conversar sobre tecnologia, me chama em:
 
 - 📱 WhatsApp: (19) 98770-4648
 - 📧 Email: caiompbueno@gmail.com  
-- 💼 LinkedIn: [https://www.linkedin.com/in/caio-marion-b5b20727b/] (https://www.linkedin.com/in/caio-marion-b5b20727b/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/caio-marion-b5b20727b/](https://www.linkedin.com/in/caio-marion-b5b20727b/)
 
 ---
 
